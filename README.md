@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aditya Patidar</h1>
 <h3 align="center">L3 HPUX/Red Hat Support at DXC Technology</h3>
 
-- 🌱 **HashiCorp Certified_ Terraform Associate 003**
+- 🌱 **HashiCorp Certified Terraform Associate 003**
+- 🌱 **AWS Certified DevOps Engineer - Professional**
 
 - 📫 How to reach me **adpatidar.patil@gmail.com**
 
